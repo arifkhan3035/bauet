@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<!-- saved from url=(0027)http://bauet.ac.bd/eee.html -->
+<html class="no-js" lang=""><!-- Mirrored from www.radiustheme.com/demo/html/academics/academics/index4.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 14 May 2017 09:58:03 GMT --><!-- Added by HTTrack --><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- /Added by HTTrack -->
+
+
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>BAUET</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="./head_files/bootstrap.min.css">
+
+<!-- Animate CSS -->
+<link rel="stylesheet" href="./head_files/animate.min.css">
+
+<!-- Font-awesome CSS-->
+<link rel="stylesheet" href="./head_files/font-awesome.min.css">
+
+<!-- Owl Caousel CSS -->
+
+<!-- Main Menu CSS -->
+<link rel="stylesheet" href="./head_files/meanmenu.min.css">
+
+<!-- nivo slider CSS -->
+<link rel="stylesheet" href="./head_files/nivo-slider.css" type="text/css">
+<link rel="stylesheet" href="./head_files/preview.css" type="text/css" media="screen">
+
+<!-- Custom CSS -->
+<link rel="stylesheet" href="./head_files/style.css">
+ <link href="./head_files/customize-template.css" rel="stylesheet" type="text/css">
+
+                <link rel="stylesheet" href="./head_files/styles.css">
+        <link href="./head_files/font-awesome.min(1).css" rel="stylesheet">
+        <link rel="stylesheet" href="./head_files/custom-public.css">
+
+		<!--/ styles -->
+
+<script src="./head_files/jquery.min.js.download"></script>
+<script>
+$(document).ready(function(){
+    $("#mobile-menu").click(function(){
+        $(".main-nav").toggle('slow');
+    });
+});
+</script>
+</head>
+<body>
+
+
+<!-- Add your site or application content here -->
+<!-- Preloader Start Here -->
+<!-- Preloader End Here -->
+<!-- Main Body Area Start Here -->
+<div id="wrapper">
+  <!-- Header Area Start Here -->
+  <header>
+    <div id="header2" class="header4-area">
+      <div class="header-top-area" style="margin-bottom: 146px;">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
+              <div class="header-top-left">
+                <div class="logo-area"> <a href="http://bauet.ac.bd/eee.html"><img class="img-responsive" src="./head_files/logo2.png" width="4000" height="500" alt="logo"></a> </div>
+              </div>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
+              <div class="header-top-right text-right">
+                <ul>
+                 <li><a href="http://bauet.ac.bd/oaf" class="apply-now-btn2">Apply Now</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="main-menu-area bg-primary stick" id="sticker">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+              <nav id="desktop-nav">
+                <ul>
+               <li class=""><a href="http://bauet.ac.bd/index.php">Home</a> </li>
+                  
+                  <li class=""><a href="http://bauet.ac.bd/eee.html#">ADMISSION </a>
+                    <ul>
+                    <li><a href="http://bauet.ac.bd/oaf">Apply Now</a></li>                     
+                      <li><a href="http://bauet.ac.bd/add_circular.pdf">Admission Proccedure</a></li>
+                      <li><a href="http://bauet.ac.bd/Capabilities.html">Capabilities</a></li>
+                      <li><a href="http://bauet.ac.bd/bank.html">Bank Details</a></li>
+                    </ul>
+                  </li>
+
+                  <li><a href="http://bauet.ac.bd/eee.html#">ADMINISTRATION</a>
+                    <ul>
+                      <li><a href="http://bauet.ac.bd/chancellor.html">CHANCELLOR</a></li>
+                      <li><a href="http://bauet.ac.bd/vc.html">Vice CHANCELLOR</a></li>
+                      <li><a href="http://bauet.ac.bd/Board_of_Trustees.html">BOARD OF TRUSTEES</a></li>
+                      <li><a href="http://bauet.ac.bd/administrative_officers.html">Administration OFFICERS</a></li>
+                      <li><a href="http://bauet.ac.bd/acdemic_council.html">ACADEMIC COUNCIL of BAUET</a></li>
+                      <li><a href="http://bauet.ac.bd/dean.html">DEAN OF FACULTIES</a></li>
+                      <li><a href="http://bauet.ac.bd/finance_committee.html">Finance committee of BAUET</a></li>
+                      <li><a href="http://bauet.ac.bd/office_of_registrar.html">OFFICE OF REGISTER</a></li>
+                      <li><a href="http://bauet.ac.bd/controller_of_exam.html">OFFICE OF CONTROLLER OF EXAMINATION</a></li>
+                      <li><a href="http://bauet.ac.bd/proctor.html">PROCTOR OFFICE</a></li>
+                       
+                    </ul>
+                  </li>
+                  <li><a href="http://bauet.ac.bd/eee.html#">Department</a>
+                    <ul>
+                    <li><a href="http://bauet.ac.bd/cse.html">Computer Science &amp; Engineering</a></li>
+                       <li><a href="http://bauet.ac.bd/eee.html">Electrical &amp; Electronic Engineering</a></li>
+                      <li><a href="http://bauet.ac.bd/civil.html">Civil Engineering</a></li>
+                      <li><a href="http://bauet.ac.bd/ice.html">Information &amp; Communication Engineering</a></li>
+                      <li><a href="http://bauet.ac.bd/english.html">English</a></li>
+                      <li><a href="http://bauet.ac.bd/bba.html">Business And Administration</a></li>
+                      <li><a href="http://bauet.ac.bd/llb.html">Law and Justice</a></li>
+                       <li><a href="http://bauet.ac.bd/science_faculty.html">Faculty of Science and Humanities</a></li>                      
+                    </ul>
+                  </li>
+
+                   <li><a href="http://bauet.ac.bd/eee.html#">RESEARCH</a>
+                    <ul>
+                     <li><a href="http://bauet.ac.bd/upcoming/soon/research.html">Current Researches</a></li>
+                      <li><a href="http://bauet.ac.bd/upcoming/soon/research.html">Faculty Wise Research</a></li>
+                    </ul>
+                  </li>
+
+                   <li><a href="http://bauet.ac.bd/eee.html#">FACILITIES</a>
+                    <ul>
+                    <!-- <li><a href="http://bauet.ac.bd/newww.html">Scholarship and Award</a></li>
+                    <li><a href="http://bauet.ac.bd/newww.html">Labratory Facilities</a></li> -->
+                      <li><a href="http://bauet.ac.bd/hall.html">Residential Hall</a></li>
+                      <li><a href="http://bauet.ac.bd/medical.html">Health Care Centre</a></li>
+                      <li><a href="http://bauet.ac.bd/transport.html">Transport</a></li>
+                      <li><a href="http://bauet.ac.bd/bank.html">Bank</a></li>                 
+                       <li><a href="http://bauet.ac.bd/cafe.html">Cafeteria</a></li>
+                    
+                    </ul>
+                  </li>
+
+                   <li><a href="http://bauet.ac.bd/eee.html#">CLUBS</a>
+                    <ul>
+                    <li><a href="http://bauet.ac.bd/progclub.html">BAUET Programming Club</a></li>
+                    <li><a href="http://bauet.ac.bd/barc.html">Automation and Robotic Club</a></li>
+                      <li><a href="http://bauet.ac.bd/cultural.html">Cultural Club</a></li>                      
+                      <li><a href="http://bauet.ac.bd/debate.html">Debate Club</a></li>
+                      <li><a href="http://bauet.ac.bd/language.html">English Language Club</a></li>
+                       <li><a href="http://bauet.ac.bd/welfare.html">BAUET Welfare Club</a></li>  
+                       <li><a href="http://bauet.ac.bd/sport.html">BAUET Sports Club</a></li>  
+                       <li><a href="http://bauet.ac.bd/bpmc.html">Photography Club</a></li>
+                       <li><a href="http://bauet.ac.bd/palb.html">প্রথম আলো বন্ধু সভা(BAUET)</a></li>                
+                    
+                    </ul>
+                  </li>
+
+
+          <li><a href="http://bauet.ac.bd/eee.html#">ABOUT US</a>
+                    <ul>
+                      <li><a href="http://bauet.ac.bd/about_bauet.html">About Bauet</a></li>
+                      <li><a href="http://bauet.ac.bd/about_bauet.html">Vision, Mission and Objectives</a></li>
+                      <li><a href="http://bauet.ac.bd/Capabilities.html">Scopes</a></li>
+                      <li><a href="http://bauet.ac.bd/conduct_deci.html">Conduct and Discipline </a></li>
+                      <li><a href="https://www.youtube.com/watch?v=ODsieTHibSE">BAUET Tube</a></li>
+                      <li><a href="http://bauet.ac.bd/gallery/gallery.html">Gallery</a></li>
+
+                    </ul>
+                  </li>
+
+                 
+                  <li><a href="http://bauet.ac.bd/contact.html">Contact</a> </li>
+                </ul>
+
+
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Mobile Menu Area Start -->
+    <div class="mobile-menu-area">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="mobile-menu">
+               <nav id="dropdown" style="display: block;">
+              
+                   <ul>
+               <li class=""><a href="http://bauet.ac.bd/index.php">Home</a> </li>
+                  
+                  <li class=""><a href="http://bauet.ac.bd/eee.html#">ADMISSION </a>
+                    <ul>
+                    <li><a href="http://bauet.ac.bd/oaf">Apply Now</a></li>                     
+                      <li><a href="http://bauet.ac.bd/add_circular.pdf">Admission Proccedure</a></li>
+                      <li><a href="http://bauet.ac.bd/Capabilities.html">Capabilities</a></li>
+                      <li><a href="http://bauet.ac.bd/bank.html">Bank Details</a></li>
+                    </ul>
+                  </li>
+
+                  <li><a href="http://bauet.ac.bd/eee.html#">ADMINISTRATION</a>
+                    <ul>
+                      <li><a href="http://bauet.ac.bd/chancellor.html">CHANCELLOR</a></li>
+                      <li><a href="http://bauet.ac.bd/vc.html">Vice CHANCELLOR</a></li>
+                      <li><a href="http://bauet.ac.bd/Board_of_Trustees.html">BOARD OF TRUSTEES</a></li>
+                      <li><a href="http://bauet.ac.bd/administrative_officers.html">Administration OFFICERS</a></li>
+                      <li><a href="http://bauet.ac.bd/acdemic_council.html">ACADEMIC COUNCIL of BAUET</a></li>
+                      <li><a href="http://bauet.ac.bd/dean.html">DEAN OF FACULTIES</a></li>
+                      <li><a href="http://bauet.ac.bd/finance_committee.html">Finance committee of BAUET</a></li>
+                      <li><a href="http://bauet.ac.bd/office_of_registrar.html">OFFICE OF REGISTER</a></li>
+                      <li><a href="http://bauet.ac.bd/controller_of_exam.html">OFFICE OF CONTROLLER OF EXAMINATION</a></li>
+                      <li><a href="http://bauet.ac.bd/proctor.html">PROCTOR OFFICE</a></li>
+                       
+                    </ul>
+                  </li>
+                  <li><a href="http://bauet.ac.bd/eee.html#">Department</a>
+                    <ul>
+                    <li><a href="http://bauet.ac.bd/cse.html">Computer Science &amp; Engineering</a></li>
+                       <li><a href="http://bauet.ac.bd/eee.html">Electrical &amp; Electronic Engineering</a></li>
+                      <li><a href="http://bauet.ac.bd/civil.html">Civil Engineering</a></li>
+                      <li><a href="http://bauet.ac.bd/ice.html">Information &amp; Communication Engineering</a></li>
+                      <li><a href="http://bauet.ac.bd/english.html">English</a></li>
+                      <li><a href="http://bauet.ac.bd/bba.html">Business And Administration</a></li>
+                      <li><a href="http://bauet.ac.bd/llb.html">Law and Justice</a></li>
+                       <li><a href="http://bauet.ac.bd/science_faculty.html">Faculty of Science and Humanities</a></li>                      
+                    </ul>
+                  </li>
+
+                   <li><a href="http://bauet.ac.bd/eee.html#">RESEARCH</a>
+                    <ul>
+                     <li><a href="http://bauet.ac.bd/upcoming/soon/research.html">Current Researches</a></li>
+                      <li><a href="http://bauet.ac.bd/upcoming/soon/research.html">Faculty Wise Research</a></li>
+                    </ul>
+                  </li>
+
+                   <li><a href="http://bauet.ac.bd/eee.html#">FACILITIES</a>
+                    <ul>
+                    <!-- <li><a href="http://bauet.ac.bd/newww.html">Scholarship and Award</a></li>
+                    <li><a href="http://bauet.ac.bd/newww.html">Labratory Facilities</a></li> -->
+                      <li><a href="http://bauet.ac.bd/hall.html">Residential Hall</a></li>
+                      <li><a href="http://bauet.ac.bd/medical.html">Health Care Centre</a></li>
+                      <li><a href="http://bauet.ac.bd/transport.html">Transport</a></li>
+                      <li><a href="http://bauet.ac.bd/bank.html">Bank</a></li>                 
+                       <li><a href="http://bauet.ac.bd/cafe.html">Cafeteria</a></li>
+                    
+                    </ul>
+                  </li>
+                  
+                   <li><a href="http://bauet.ac.bd/eee.html#">CLUBS</a>
+                    <ul>
+                    <li><a href="http://bauet.ac.bd/progclub.html">BAUET Programming Club</a></li>
+                    <li><a href="http://bauet.ac.bd/barc.html">Automation and Robotic Club</a></li>
+                      <li><a href="http://bauet.ac.bd/cultural.html">Cultural Club</a></li>                      
+                      <li><a href="http://bauet.ac.bd/debate.html">Debate Club</a></li>
+                      <li><a href="http://bauet.ac.bd/language.html">English Language Club</a></li>
+                       <li><a href="http://bauet.ac.bd/welfare.html">BAUET Welfare Club</a></li>  
+                       <li><a href="http://bauet.ac.bd/sport.html">BAUET Sports Club</a></li>  
+                       <li><a href="http://bauet.ac.bd/bpmc.html">Photography Club</a></li>
+                       <li><a href="http://bauet.ac.bd/palb.html">প্রথম আলো বন্ধু সভা(BAUET)</a></li>                
+                    
+                    </ul>
+                  </li>
+
+
+          <li><a href="http://bauet.ac.bd/eee.html#">ABOUT US</a>
+                    <ul>
+                      <li><a href="http://bauet.ac.bd/about_bauet.html">About Bauet</a></li>
+                      <li><a href="http://bauet.ac.bd/about_bauet.html">Vision, Mission and Objectives</a></li>
+                      <li><a href="http://bauet.ac.bd/Capabilities.html">Scopes</a></li>
+                      <li><a href="http://bauet.ac.bd/conduct_deci.html">Conduct and Discipline </a></li>
+                      <li><a href="https://www.youtube.com/watch?v=ODsieTHibSE">BAUET Tube</a></li>
+                      <li><a href="http://bauet.ac.bd/gallery/gallery.html">Gallery</a></li>
+
+                    </ul>
+                  </li>
+
+                 
+                  <li><a href="http://bauet.ac.bd/contact.html">Contact</a> </li>
+                </ul>
+
+
+                
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Mobile Menu Area End --> 
+  </header>
+  <!-- Header Area End Here -->
+
+
+<main style="">
+    <!-- page content -->
+    <section class="page-content">
+
+        <div class="grid-row composer">
+            <h3 class="center">Department of EEE
+    </h3>
+
+            <br><br>
+            <div id="team">
+                <ul class="team">
+                
+                
+                
+							   <li class="item item-designer" style="width: 100%; float: left; padding-bottom: 20px">
+                                    <div style="margin: 0 auto; width: 220px">
+                                        <div class=""><img src="./head_files/talukdar.JPG" alt="Mountain View" style="width:120px;height:132.5px;"></div>
+
+
+                                        <h3 style="color:blue">A.M. Rezaul Karim Talukder </h3>
+
+                                        <h4>Professor and Head, EEE </h4>
+
+                                        <a href="http://bauet.ac.bd/ece_faculty/eee/talukdar.html" target=" "><h5>Details</h5></a>
+
+                                    </div>
+                                </li>
+                                
+                                
+                                                                                                           
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                             
+                                                      <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/mortuza.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                     <h3 style="color:blue">Dr Md. Mortuza Ali </h3>
+                                    <h4>Professor<sup>**</sup>, RUET</h4>
+                                    
+
+                                </div>
+                            </li>                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                        <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/razzak.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                     <h3 style="color:blue">S. M. Abdur Razzak </h3>
+                                    <h4>Professor<sup>**</sup>, RUET</h4>
+                                    
+
+                                </div>
+                            </li>                                                       
+                            
+                             
+                            
+                             
+                            
+                            
+                            
+
+
+
+                          
+
+                             
+
+                              <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/momtazur.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">	Md. Momtazur Rahman(On Leave)</h3>
+                                    <h4>Assistant Professor (On Leave)</h4>
+                                    <a href="http://bauet.ac.bd/ece_faculty/eee/Momtazur.html" target="-blank"><h5>Details</h5></a>
+
+                                </div>
+                            </li>
+
+                            <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/mubin.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">Md. Mahmudul Hasan</h3>
+									
+                                    <h4>Lecturer , EEE(On Leave)</h4>
+                                   <a href="http://bauet.ac.bd/ece_faculty/eee/mahmudul.html" target="-blank"><h5>Details</h5></a>
+
+                                </div>
+                            </li>
+
+                           
+
+                         
+                            
+                             <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/monem.jpg" alt="Mountain View" style="width:120px;height:132.5px;"></div>
+
+                                    <h3 style="color:blue">Md. Abdul Monem(On Leave)</h3>
+									
+                                    <h4>Lecturer, EEE</h4>
+                                    <a href="http://bauet.ac.bd/ece_faculty/eee/monem.html"><h5>Details</h5></a>
+
+                                </div>
+                            </li>
+                            
+                            
+                              <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/rabiul.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">Md. Rabiul Islam </h3>
+									
+                                    <h4>Assistant Professor, EEE</h4>
+                                     <a href="http://bauet.ac.bd/ece_faculty/eee/Rabiul.html" target=" "><h5>Details</h5></a>
+
+                                </div>
+                            </li>
+                            
+                             <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/neepa.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">	Neepa Sarker </h3>
+									
+                                    <h4>Lecturer, EEE</h4>
+                                     <a href="http://bauet.ac.bd/ece_faculty/eee/Nepa.html" target=" "><h5>Details</h5></a>
+
+                                </div>
+                            </li>
+                            
+                            
+                            
+                             <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/bulbul.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">	Md. Bulbul Ahmed Bhadon </h3>
+									
+                                    <h4>Lecturer, EEE</h4>
+                                     <a href="http://bauet.ac.bd/ece_faculty/eee/Bulbul.html" target=" "><h5>Details</h5></a>
+
+                                </div>
+                            </li>
+                            
+                            
+                            
+                             <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/tonmoy.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">	Md. Tonmoy Islam  </h3>
+									
+                                    <h4>Lecturer, EEE</h4>
+                                     <a href="http://bauet.ac.bd/ece_faculty/eee/Tonmoy.html" target=" "><h5>Details</h5></a>
+
+                                </div>
+                            </li>
+                            
+                            
+                            
+                            
+                             <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/samia.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">	Samia Ferdous Mou </h3>
+									
+                                    <h4>Lecturer, EEE</h4>
+                                     <a href="http://bauet.ac.bd/ece_faculty/eee/Mou.html" target=" "><h5>Details</h5></a>
+
+                                </div>
+                            </li>
+                            
+                            <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/azmain.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">	Md. Abdul Al Azmain </h3>
+									
+                                    <h4>Lecturer, EEE</h4>
+                                     <a href="http://bauet.ac.bd/ece_faculty/eee/Azmain.html" target=" "><h5>Details</h5></a>
+
+                                </div>
+                            </li>
+                            
+                            
+                  
+                            
+                            <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/sariul.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">Sariul Hasan</h3>
+									
+                                    <h4>Lecturer, EEE</h4>
+                                    <a href="http://bauet.ac.bd/ece_faculty/eee/Sariul.html" target=" "><h5>Details</h5></a> 
+ 
+
+                                </div>
+                            </li>
+                           
+                           
+                             <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/sara.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">Sara Khan  </h3>
+									
+                                    <h4>Lecturer, EEE</h4>
+                                     <a href="http://bauet.ac.bd/ece_faculty/eee/Sara.html" target=" "><h5>Details</h5></a> 
+
+
+                                </div>
+                            </li>
+                            
+                            <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/motakabbir.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">Md. Motakabbir Rahman  </h3>
+									
+                                    <h4>Lecturer, EEE</h4>
+                                     <a href="http://bauet.ac.bd/ece_faculty/eee/Motakabbir.html" target=" "><h5>Details</h5></a> 
+
+
+                                </div>
+                             </li>
+                            
+                                      <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/simul.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">Md. Simul Hasan Talukder   </h3>
+									
+                                    <h4>Lecturer, EEE</h4>
+                                    <a href="http://bauet.ac.bd/ece_faculty/eee/Simul.html" target=" "><h5>Details</h5></a> 
+
+                                </div>
+                            </li>
+                            
+                            
+                             <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/sanjoy.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">Sanjoy Kumar Saha  </h3>
+									
+                                    <h4>Lecturer, EEE</h4>
+                                     <a href="http://bauet.ac.bd/ece_faculty/eee/Sanjoy.html" target=" "><h5>Details</h5></a> 
+
+
+                                </div>
+                            </li>
+                             <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/istiak.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">Istiak Ahmed</h3>
+									
+                                    <h4>Lecturer, EEE</h4>
+                                     <a href="http://bauet.ac.bd/ece_faculty/eee/Istiak.html" target=" "><h5>Details</h5></a> 
+
+                                </div>
+                            </li>
+                             <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/suvojit.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">Suvojit Kumar Singha  </h3>
+									
+                                    <h4>Lecturer, ME</h4>
+                                     <a href="http://bauet.ac.bd/ece_faculty/eee/Suvojit.html" target=" "><h5>Details</h5></a> 
+
+                                </div>
+                            </li>
+                             <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/shahadat.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">Md. Shahadat Hossain   </h3>
+									
+                                    <h4>Lecturer, EEE</h4>
+                                     <a href="http://bauet.ac.bd/ece_faculty/eee/Shahadat.html" target=" "><h5>Details</h5></a> 
+
+                                </div>
+                            </li>
+                            
+                            <li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="./head_files/amanur.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">Amanur Rahman</h3>
+									
+                                    <h4>Lecturer, EEE</h4>
+                                    <a href="http://bauet.ac.bd/ece_faculty/eee/Amanur.html" target=" "><h5>Details</h5></a>  
+
+                                </div>
+                            </li>
+                            
+							
+							 <!--<li class="item item-designer">
+                                <div>
+                                    <div class=""><img src="img/CSE-08.jpg" alt="Mountain View" style="width:120px;height:160px;"></div>
+
+                                    <h3 style="color:blue">Mohammad Abdul Alim</h3>
+									<p>B.Com (Hons), M.Com (Accounting) NU, MBA (Finance) NUB</p>
+                                    <h4>Accounts Officer</h4>
+                                    <h5>Details</h5>
+
+                                </div>
+                            </li>-->
+
+
+
+
+
+
+                                            </ul>
+            </div>
+
+            <br>
+            <br>
+            </div>
+    </section>
+</main>
+
+
+
+  <!-- Slider 1 Area Start Here -->
+
+
+  <!-- Slider 1 Area End Here -->
+
+
+
+
+      </div>
+    
+  
+  <div class="clearfix"></div>
+  <!-- Footer Area Start Here -->
+  <footer>
+    <div class="footer-area-top">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+            <div class="footer-box"> <a href="http://bauet.ac.bd/"><img class="img-responsive" src="./head_files/logo-footer.png" alt="logo"></a>
+              <div class="footer-about">
+                <p>Bangladesh Army University of Engineering &amp; Technology (BAUET) has been established by the Bangladesh Army with due permission from the government of the Peoples  Republic of Bangladesh with a view to imparting Quality Education at affordable.</p>
+              </div>
+              <ul class="footer-social">
+                <li><a href="https://www.facebook.com/bauetqadirabad/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.facebook.com/bauetqadirabad/"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.facebook.com/bauetqadirabad/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.facebook.com/bauetqadirabad/"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.facebook.com/bauetqadirabad/"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.facebook.com/bauetqadirabad/"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+            <div class="footer-box">
+              <h3>Featured Links</h3>
+              <ul class="featured-links">
+                <li>
+                  <ul>
+                    <li><a href="http://bauet.ac.bd/progclub.html">Programming</a></li>
+                    <li><a href="http://bauet.ac.bd/admissionInfo/adInfo.html">Admissions</a></li>
+                    <li><a href="http://bauet.ac.bd/eee.html#">International</a></li>
+                    <li><a href="http://bauet.ac.bd/about_bauet.html">FAQs</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <ul>
+                    <li><a href="http://bauet.ac.bd/upcoming/soon/lib.html">Library</a></li>
+                    <li><a href="http://bauet.ac.bd/medical.html">Medical</a></li>
+                    <li><a href="http://bauet.ac.bd/hall.html">Hall </a></li>
+                    <li><a href="http://bauet.ac.bd/upcoming/soon/alumni.html">Alumni</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+            <div class="footer-box">
+              <h3>Information</h3>
+              <ul class="corporate-address">
+                <li><i class="fa fa-phone" aria-hidden="true"></i><a href="http://bauet.ac.bd/eee.html">+880 7722-72382 </a></li>
+                <li><i class="fa fa-envelope-o" aria-hidden="true"></i> registrar@bauet.ac.bd, info@bauet.ac.bd </li>
+              </ul>
+              <div class="newsletter-area">
+                <!-- <h3>Newsletter</h3> -->
+                <div class="input-group stylish-input-group">
+                  
+               
+                   </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+            <div class="footer-box">
+              <h3>Google Map</h3>
+              <section id="googleMap">
+      <div align="center"><iframe width="300px" height="200px" src="./head_files/map.html" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.mapsdirections.info/fr/mesurer-distance-surface-google-maps.html">distance entre deux points carte</a></iframe></div><br>
+    
+
+    </section>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-area-bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+            <p>© 2017 © Developed by CSE Department,BAUET</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- Footer Area End Here -->
+
+<!-- Main Body Area End Here -->
+<!-- jquery-->
+<script src="./head_files/jquery-2.2.4.min.js.download" type="text/javascript"></script>
+
+<!-- Bootstrap js -->
+<script src="./head_files/bootstrap.min.js.download" type="text/javascript"></script>
+<script src="./head_files/jquery.bootstrap.newsbox.min.js.download" type="text/javascript"></script>
+<script src="./head_files/home_page.js.download"></script>
+<script src="./head_files/common_js.js.download"></script>
+<!-- WOW JS -->
+<script src="./head_files/wow.min.js.download"></script>
+
+<!-- Nivo slider js -->
+<script src="./head_files/jquery.nivo.slider.js.download" type="text/javascript"></script>
+<script src="./head_files/home.js.download" type="text/javascript"></script>
+
+<!-- Meanmenu Js -->
+<script src="./head_files/jquery.meanmenu.min.js.download" type="text/javascript"></script>
+
+<!-- Srollup js -->
+<script src="./head_files/jquery.scrollUp.min.js.download" type="text/javascript"></script>
+
+<!-- Custom Js -->
+<script src="./head_files/main.js.download" type="text/javascript"></script><a id="scrollUp" href="http://bauet.ac.bd/eee.html#top" style="display: none; position: fixed; z-index: 2147483647;"><i class="fa fa-arrow-up"></i></a>
+
+
+</body></html>

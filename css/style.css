@@ -1,0 +1,35 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+     background:white;
+     color:#182147;
+ }
+ .navbar{
+     border-bottom: 3px solid #008ed6;
+     background: #292c2b;
+     opacity: 0.7;
+ }
+ .nav-item{
+     color: aqua;
+ }
+  #explore-head-section{
+      
+  }
+  #card-section{
+      padding: 5%;
+      text-align: center;
+      background-color:#628999;
+      
+  }
+  .card-col{
+      padding: 2% 2%;
+  }
+  i{
+      font-size: 20px;
+      padding: 15px;
+  }
+  i:hover{
+      background: coral;
+  }
+  
